@@ -2,6 +2,6 @@
 require 'pry' 
 def game_hash 
  hashketball = {}
- hashketball[:home]
+ hashketball[:home] = {
  binding.pry
 end 
