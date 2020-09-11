@@ -13,7 +13,19 @@ def game_hash
     :colors => ["Turquoise", "Purple"]
     :players => [
       {
+        :player_name
+        :number
+        :shoe
+        :points
+        :rebounds
+        :assists
+        :steals
+        :blocks
+        :slam_dunks
+    },
+    {
       
+    }
     }
     ]
   }
