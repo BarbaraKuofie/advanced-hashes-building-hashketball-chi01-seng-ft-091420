@@ -3,8 +3,8 @@ require 'pry'
 def game_hash 
 {
   :home => {
-    :team_name => "Brooklyn Nets"
-    :colors => [ "Black", "White"]
+    :team_name => "Brooklyn Nets",
+    :colors => [ "Black", "White"],
     :players => [
       {
         :player_name
@@ -60,10 +60,9 @@ def game_hash
         :blocks
         :slam_dunks
   },
-  binding.pry 
   :away => {
-    :team_name => "Charlotte Hornets"
-    :colors => ["Turquoise", "Purple"]
+    :team_name => "Charlotte Hornets",
+    :colors => ["Turquoise", "Purple"],
     :players => [
       {
         :player_name
