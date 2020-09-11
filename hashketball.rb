@@ -60,6 +60,7 @@ def game_hash
         :blocks
         :slam_dunks
   },
+  binding.pry 
   :away => {
     :team_name => "Charlotte Hornets"
     :colors => ["Turquoise", "Purple"]
@@ -117,7 +118,7 @@ def game_hash
         :steals
         :blocks
         :slam_dunks
-    }
+     }
     ]
   }
 }
