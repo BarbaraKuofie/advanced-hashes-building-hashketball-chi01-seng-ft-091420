@@ -78,7 +78,7 @@ def game_hash
         :slam_dunks
     },
     {
-       :player_name
+       :player_name => "Jeff Adrien",
         :number
         :shoe
         :points
@@ -89,7 +89,7 @@ def game_hash
         :slam_dunks
     },
     {
-       :player_name
+       :player_name => "Bismack Biyombo",
         :number
         :shoe
         :points
@@ -100,7 +100,7 @@ def game_hash
         :slam_dunks
     },
     {
-       :player_name
+       :player_name => "Disagna Diop",
         :number
         :shoe
         :points
@@ -110,7 +110,7 @@ def game_hash
         :blocks
         :slam_dunks
     },
-    { :player_name
+    { :player_name => "Ben Gordon",
         :number
         :shoe
         :points
@@ -119,7 +119,8 @@ def game_hash
         :steals
         :blocks
         :slam_dunks
-     }
+     },
+     
     ]
    }
   }
